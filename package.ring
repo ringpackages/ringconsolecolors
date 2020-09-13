@@ -25,7 +25,7 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"bin/consolecolors.ring",
+		"bin/load/consolecolors.ring",
 		"extensions/ringconsolecolors/build.bat",
 		"extensions/ringconsolecolors/buildclang.sh",
 		"extensions/ringconsolecolors/buildgcc.sh",
